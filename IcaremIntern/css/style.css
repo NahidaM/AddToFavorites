@@ -1,0 +1,22 @@
+#intro {
+    padding: 50px 0;
+  }
+  
+  .links {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+  }
+  
+  .links.active {
+    color: red;
+  }
+  
+  .content {
+    display: none;
+  }
+  
+  .content.show {
+    display: block;
+  }
